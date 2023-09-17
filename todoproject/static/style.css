@@ -1,0 +1,12 @@
+.banner {
+    background-color: MediumSeaGreen;
+    height: 100px;
+    margin-button: 60px;
+}
+
+.banner-text{
+top:50;
+left:50%;
+position:absolute;
+transform:transform;
+}
